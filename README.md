@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is Aylin 🐈‍⬛
 
 <!--
 **cvstleee/cvstleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently studying Computing Engineering at University of Santiago of Chile (USACH) 🦁 and I'm very interested in Data Engineering so my individual projects will be about that area but I also have some of web development, database management, etc.
+
+## Contact me 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylin-castillo-244546260/) [![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aylin.castillo.p@gmail.com)
